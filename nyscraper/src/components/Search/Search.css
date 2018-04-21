@@ -1,0 +1,19 @@
+.heading {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 3rem;
+  }
+  
+  .scores {
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  #message {
+    text-align: center;
+    font-size: 2.5rem;
+  }
